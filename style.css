@@ -1,0 +1,14 @@
+body,
+.jumbotron {
+  padding: 30px;
+}
+
+.text-giant {
+  font-size: 40px;
+}
+
+header h2{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
